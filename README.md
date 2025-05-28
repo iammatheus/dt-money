@@ -17,4 +17,4 @@ O projeto foi desenvolvido utilizando **React + Vite e JSON Server** para simula
 - react-router
 - radix-ui
 - styled-components
-- eslint para padronização de código
+- eslint e prettier para padronização de código
